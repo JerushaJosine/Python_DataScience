@@ -7,7 +7,7 @@
 
 - Access the folder path to access the csv file
 
-- Check the shape of the data (rowa, columns).
+- Check the shape of the data (rows, columns).
 
 - Use describe to find the type of data.
 
